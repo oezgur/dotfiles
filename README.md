@@ -6,4 +6,5 @@ Welcome to my dotfiles repository! This repository contains configuration files 
 
 - [Helix Text Editor](./config.toml): Configuration files for the Helix text editor, making your coding experience efficient and comfortable.
 - [i3 Window Manager](./i3-config): Configuration files for the i3 window manager, allowing you to tailor your window management setup.
-- [dmenu](./i3-config): Configuration files for dmenu are placed in on i3 config.
+- [dmenu](./i3-config): Configuration files for dmenu are placed in on i3 config. Switch between rofi/dmenu up to the user
+- [rofi](./rofi/config.rasi): Configuration files for rofi, bindsym'ed in i3 config as drun.
